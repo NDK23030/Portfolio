@@ -1,8 +1,8 @@
 .promo {
     min-height: 100vh;
     position: relative;
-    background-color: #bedaef ;
-    // background: url('../img/main_bg.jpg') no-repeat 50%/cover;
+    // background-color: #bedaef ;
+    background: url('../img/main_bg.jpg') no-repeat 50%/cover;
     padding-top: 205px;
     &__title {
         width: 535px;
@@ -23,9 +23,9 @@
     }
     &__link {
         font-weight: bold;
-        color: #000;
+        color: #fff;
         &:hover {
-            color: #000;
+            color: #fff;
             text-decoration: none;
         }
     }
